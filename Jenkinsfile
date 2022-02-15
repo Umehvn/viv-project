@@ -1,4 +1,4 @@
-//This jenkinsfile is written in Groovy by Ismaila .
+//This jenkinsfile is added in Groovy for Vivian Umeh.
 //This code is used for Full automation on Jenkins pipeline by pulling the code project from remote github repo, 
 //Maven build package, Sonaqube for quality code testing, deploying artifiat into nexus, Deploy to UAT Tomcat testing environment,
 //Email notification using SMTP Server, Manual Approval and then Final deployment to production.
