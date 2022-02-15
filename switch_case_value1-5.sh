@@ -1,4 +1,4 @@
-#A switch case to take value from 1 to 5 by ismaila afuwape
+#A switch case to take value from 1 to 5 added to vivian umeh
 #!/bin/bash
 echo 'Enter value from 1 to 5' 
 read number
